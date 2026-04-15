@@ -1,0 +1,19 @@
+{
+ "content": null,
+ "creation": "2026-04-14 18:01:25.672074",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2026-04-14 18:01:25.672074",
+ "modified_by": "Administrator",
+ "module": "Payroll Confirmation",
+ "name": "hrms_confirmation",
+ "owner": "Administrator",
+ "page_name": "hrms_confirmation",
+ "roles": [],
+ "script": null,
+ "standard": "Yes",
+ "style": "hrms_confirmation.css",
+ "system_page": 0,
+ "title": "HRMS Confirmation"
+}

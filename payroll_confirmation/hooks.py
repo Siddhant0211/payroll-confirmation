@@ -26,7 +26,10 @@ app_license = "agpl-3.0"
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/payroll_confirmation/css/payroll_confirmation.css"
-# app_include_js = "/assets/payroll_confirmation/js/payroll_confirmation.js"
+app_include_js = [
+    "/assets/payroll_confirmation/js/hrms_confirm.js",
+    "/assets/payroll_confirmation/js/payroll_entry_redirect.js"
+]
 
 # include js, css files in header of web template
 # web_include_css = "/assets/payroll_confirmation/css/payroll_confirmation.css"
